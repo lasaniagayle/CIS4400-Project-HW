@@ -53,6 +53,6 @@ The objective of this project is to analyze citywide bike share trip data to ide
 **Technical Requirements**
 - Integration with a scalable data warehouse (AWS Redshift )
 - ETL pipeline using Python to clean and transform data
-- Dash boarding and filtering capabilities through tools like Tableau or Power BI
+- Dash boarding and filtering capabilities through Tableau 
 
 
