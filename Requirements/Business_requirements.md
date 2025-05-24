@@ -10,7 +10,7 @@
 
 
 **Optimize Resource Allocation:**
--Understand usage patterns to redistribute bikes and docks effectively, minimizing shortages or surpluses at stations.
+- Understand usage patterns to redistribute bikes and docks effectively, minimizing shortages or surpluses at stations.
 
 **Improve Customer Experience:**
 - Identify peak usage times and areas to enhance availability and reduce wait times, aiming to increase user satisfaction and retention.
